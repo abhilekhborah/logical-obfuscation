@@ -1,5 +1,7 @@
 # Don’t Judge a Book by Its Cover: Testing LLMs’ Robustness Under Logical Obfuscation
 
+Published in:
+> Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)
 
 **Dataset (LogiQAte) Link:** [https://huggingface.co/datasets/abhilekhborah/LogiQAte](https://huggingface.co/datasets/abhilekhborah/LogiQAte)
 
@@ -8,13 +10,7 @@
 ![](./overview.png)
 
 
-LogiQAte is the first-ever logical obfuscation diagnostic benchmark, created using our proposed Logifus obfuscation method introduced in the paper, across four reasoning types.
-
-
-Published in:
-> Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)
-
-This benchmark is designed to evaluate whether large language models (LLMs) truly reason or merely rely on surface pattern matching.
+LogiQAte is the first-ever logical obfuscation diagnostic benchmark, created using our proposed Logifus obfuscation method introduced in the paper, across four reasoning types. This benchmark is designed to evaluate whether large language models (LLMs) truly reason or merely rely on surface pattern matching.
 
 ## Performance of SoTA LLMs
 
