@@ -20,11 +20,11 @@ import csv
 import re
 
 # --- Llama API Configuration ---
-LLAMA4_API_KEY = "jk5c8YsP3loxL-0W57w7Vxwy"
+LLAMA4_API_KEY = "API KEY HERE"
 LLAMA4_API_URL = 'https://cloud.olakrutrim.com/v1/chat/completions'
 LLAMA4_MODEL_NAME = "Llama-4-Scout-17B-16E-Instruct"
 
-if not LLAMA4_API_KEY or LLAMA4_API_KEY == "jk5c8YsP3loxL-0W57w7Vxwy":
+if not LLAMA4_API_KEY or LLAMA4_API_KEY == "API KEY":
     print("Warning: Using the placeholder API Key.")
     print("Ensure this is your correct key or replace it.")
 
