@@ -14,7 +14,7 @@ import re
 import csv
 
 # --- Claude API Key and Client Initialization ---
-CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY", "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")
+CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY", "PASTE YOUR API KEY HERE")
 
 if not CLAUDE_API_KEY or CLAUDE_API_KEY.startswith("YOUR_"):
     print("Error: CLAUDE_API_KEY is not set.")
