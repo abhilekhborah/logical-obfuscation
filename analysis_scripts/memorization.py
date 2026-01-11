@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from huggingface_hub import login
-login(token="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")
+login(token="your_hf_key")
 
 # ----- Argument Parsing -----
 parser = argparse.ArgumentParser(
