@@ -5,7 +5,7 @@
 
 
 ## Overview
-![](./Screenshot%202026-01-11%20at%204.37.46%E2%80%AFPM.png)
+![](./overview.png)
 
 
 LogiQAte is the first-ever logical obfuscation diagnostic benchmark, created using our proposed Logifus obfuscation method introduced in the paper, across four reasoning types.
