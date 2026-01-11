@@ -14,7 +14,7 @@ import re
 import csv
 
 # --- Google Gemini API Configuration ---
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyChM0rYAx-2-9dcaTCeNiFZT3lf4MzQg0Q")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "PASTE YOUR API KEY HERE")
 
 if not GOOGLE_API_KEY or GOOGLE_API_KEY.startswith("AIzaSy..."):
     print("Error: GOOGLE_API_KEY is not set or is still the placeholder.")
