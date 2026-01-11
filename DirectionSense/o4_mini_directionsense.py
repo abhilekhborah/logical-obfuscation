@@ -14,7 +14,7 @@ import re
 import csv
 
 # --- OpenAI API Key and Client Initialization ---
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "API KEY HERE")
 
 if not OPENAI_API_KEY:
     print("Error: OPENAI_API_KEY is not set.")
