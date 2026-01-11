@@ -15,11 +15,11 @@ import re
 import csv
 
 # --- Krutrim AI API Configuration ---
-KRUTRIM_API_KEY = "jk5c8YsP3loxL-0W57w7Vxwy"  # Replace with your actual API key
+KRUTRIM_API_KEY = "API KEY"  # Replace with your actual API key
 KRUTRIM_API_URL = 'https://cloud.olakrutrim.com/v1/chat/completions'
 KRUTRIM_MODEL_NAME = "Qwen3-32B"
 
-if not KRUTRIM_API_KEY or KRUTRIM_API_KEY == "jk5c8YsP3loxL-0W57w7Vxwy":
+if not KRUTRIM_API_KEY or KRUTRIM_API_KEY == "API KEY":
     print("Warning: Using the placeholder API Key. Ensure this is your correct key or replace it.")
 
 # --- Input Column Names ---
