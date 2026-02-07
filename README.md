@@ -25,7 +25,7 @@ If you use LogiQAte, please cite:
 @inproceedings{borah2026logiqate,
 	title     = {Don’t Judge a Book by its Cover: Testing LLMs’ Robustness Under Logical Obfuscation},
 	author    = {Borah, Abhilekh and Ghosh, Shubhra and Joshi, Kedar and Guru, Aditya Kumar and Ghosh, Kripabandhu},
-	booktitle = {Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL)},
+	booktitle = {Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL)},
 	year      = {2026}
 }
 ```
