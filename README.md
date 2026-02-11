@@ -1,4 +1,4 @@
-# Don’t Judge a Book by Its Cover: Testing LLMs’ Robustness Under Logical Obfuscation
+# Don’t Judge a Book by its Cover: Testing LLMs’ Robustness Under Logical Obfuscation
 
 Published in:
 > Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026)
